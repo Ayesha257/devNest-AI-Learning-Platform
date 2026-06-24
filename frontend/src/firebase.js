@@ -5,7 +5,6 @@ import { getAuth } from "firebase/auth";
 
 // Use the SAME Firebase project as your backend
 const firebaseConfig = {
-
   authDomain: "devnest-99574.firebaseapp.com",
   projectId: "devnest-99574",
   storageBucket: "devnest-99574.firebasestorage.app",
